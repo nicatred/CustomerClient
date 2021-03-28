@@ -1,0 +1,14 @@
+C:\Users\Nicatred\source\repos\CustomerClient\CustomerClient\obj\Debug\CustomerClient.csprojAssemblyReference.cache
+C:\Users\Nicatred\source\repos\CustomerClient\CustomerClient\obj\Debug\CustomerClient.Form1.resources
+C:\Users\Nicatred\source\repos\CustomerClient\CustomerClient\obj\Debug\CustomerClient.Properties.Resources.resources
+C:\Users\Nicatred\source\repos\CustomerClient\CustomerClient\obj\Debug\CustomerClient.csproj.GenerateResource.cache
+C:\Users\Nicatred\source\repos\CustomerClient\CustomerClient\obj\Debug\CustomerClient.csproj.CoreCompileInputs.cache
+C:\Users\Nicatred\source\repos\CustomerClient\CustomerClient\bin\Debug\CustomerClient.exe.config
+C:\Users\Nicatred\source\repos\CustomerClient\CustomerClient\bin\Debug\CustomerClient.exe
+C:\Users\Nicatred\source\repos\CustomerClient\CustomerClient\bin\Debug\CustomerClient.pdb
+C:\Users\Nicatred\source\repos\CustomerClient\CustomerClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicatred\source\repos\CustomerClient\CustomerClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicatred\source\repos\CustomerClient\CustomerClient\obj\Debug\CustomerClient.csproj.CopyComplete
+C:\Users\Nicatred\source\repos\CustomerClient\CustomerClient\obj\Debug\CustomerClient.exe
+C:\Users\Nicatred\source\repos\CustomerClient\CustomerClient\obj\Debug\CustomerClient.pdb
+C:\Users\Nicatred\source\repos\CustomerClient\CustomerClient\obj\Debug\CustomerClient.AdoClient.resources
